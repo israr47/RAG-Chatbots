@@ -1,0 +1,8 @@
+env/
+*.pyc
+__pycache__/
+*.ipynb_checkpoints
+*.log
+*.sqlite
+*.lock
+.DS_Store

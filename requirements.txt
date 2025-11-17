@@ -1,0 +1,9 @@
+langchain
+langchain_community
+langchain_core
+langchain_openai
+unstructured[all]
+unstructured-client
+pydantic
+tesseract-ocr
+pytesseract
